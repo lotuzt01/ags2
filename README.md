@@ -1,2 +1,2 @@
 # AGS
-Perdaagangan
+Perdagangan
